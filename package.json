@@ -11,6 +11,7 @@
     "start-server": "json-server ./db.json --port 4000 --watch"
   },
   "dependencies": {
+    "axios": "^1.6.2",
     "bootstrap": "^5.3.2",
     "react": "^18.2.0",
     "react-bootstrap": "^2.9.1",
