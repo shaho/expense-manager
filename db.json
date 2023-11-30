@@ -1,0 +1,25 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "expense_type": "card",
+      "expense_date": "2023-02-16",
+      "expense_amount": "1000",
+      "description": "Electricity bill"
+    },
+    {
+      "id": 2,
+      "expense_type": "card",
+      "expense_date": "2023-04-16",
+      "expense_amount": "500",
+      "description": "Internet bill"
+    },
+    {
+      "id": 3,
+      "expense_type": "cash",
+      "expense_date": "2022-04-16",
+      "expense_amount": "10000",
+      "description": "Personal expenses"
+    }
+  ]
+}

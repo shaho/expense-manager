@@ -1,0 +1,11 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "expense_type": "card",
+      "expense_date": "2023-04-16",
+      "expense_amount": "500",
+      "description": "Internet bill"
+    }
+  ]
+}
